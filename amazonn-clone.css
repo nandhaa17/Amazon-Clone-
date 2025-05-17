@@ -5,7 +5,7 @@ body{
     overflow-x: hidden;
 }
 
-.top-div{
+.top1-div{
     display: flex;
     justify-content:space-between;
     background-color: black;
